@@ -1,2 +1,2 @@
 # .net
-trying .net code
+trying vb.net code
